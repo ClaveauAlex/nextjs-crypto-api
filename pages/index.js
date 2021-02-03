@@ -6,7 +6,7 @@ export default function Home({filteredCoins}) {
   return (
     <div>
       <Head>
-        <title>Title</title>
+        <title>Crypto Tracker</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <SearchBar type="text" placeholder="Search"/>
